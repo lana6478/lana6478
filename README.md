@@ -21,6 +21,4 @@ I'm a 16-year-old maker from Yorkshire. I enjoy building things across software 
 | [fx_plugin_1](https://github.com/lana6478/fx_plugin_1) | Audio FX plugin written in C++ |
 | [raspberry-py-moniter](https://github.com/lana6478/raspberry-py-moniter) | Raspberry Pi monitoring project |
 
-## 📊 GitHub stats
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lana6478&show_icons=true)
