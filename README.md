@@ -1,4 +1,4 @@
-# Hi, I'm Samuel 👋
+# Hi, I'm Samuel 
 
 I'm a 16-year-old maker from Yorkshire. I enjoy building things across software and hardware, and my projects have developed my skills in areas like programming and cybersecurity.
 
@@ -10,7 +10,7 @@ I'm a 16-year-old maker from Yorkshire. I enjoy building things across software 
 - **Web:** websites for community groups and applications
 - **Study guides:** unofficial T Level study-guide wikis
 
-## 📌 Featured projects
+##  Featured projects
 
 | Project | Description |
 | --- | --- |
